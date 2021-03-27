@@ -13,7 +13,7 @@ namespace bot_IG
             UserName = userName;
         }
         public string UserName { get; private set; }
-        public string IosAppName { get; set; };
+        public string IosAppName { get; set; }
         public string IosAppId { get; set; }
         public string IosUrl {get; set;}
 

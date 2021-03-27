@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CE4rmpAoCsSC9qglhbPZac3bwNsfVSNClYDILjCHRfJXLJ3m4MZ3/vQ5rGeseOmDvARmxuXnC37+hGOaSA+cew==",
+  "dgSpecHash": "Leoo/teK7QYRKU8y9x/4CVRB0+Gxc0n++AA3/lAvKURuKo17OXISZoz149TTPzbFlbiVdI0SdKeJTRWAOKWmdw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rafael\\Desktop\\bot2\\bot_IG\\bot_IG\\bot_IG.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\htmlagilitypack\\1.11.32\\htmlagilitypack.1.11.32.nupkg.sha512"
+  ],
   "logs": []
 }
